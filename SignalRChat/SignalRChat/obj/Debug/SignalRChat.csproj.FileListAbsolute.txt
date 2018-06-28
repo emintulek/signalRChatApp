@@ -44,3 +44,16 @@ C:\Users\FURKAN\Desktop\signalRChatApp\SignalRChat\SignalRChat\bin\System.Web.Mv
 C:\Users\FURKAN\Desktop\signalRChatApp\SignalRChat\SignalRChat\obj\Debug\SignalRChat.csprojResolveAssemblyReference.cache
 C:\Users\FURKAN\Desktop\signalRChatApp\SignalRChat\SignalRChat\obj\Debug\SignalRChat.dll
 C:\Users\FURKAN\Desktop\signalRChatApp\SignalRChat\SignalRChat\obj\Debug\SignalRChat.pdb
+C:\Users\FURKAN\Desktop\signalRChatApp\SignalRChat\SignalRChat\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\FURKAN\Desktop\signalRChatApp\SignalRChat\SignalRChat\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\FURKAN\Desktop\signalRChatApp\SignalRChat\SignalRChat\bin\Microsoft.Owin.dll
+C:\Users\FURKAN\Desktop\signalRChatApp\SignalRChat\SignalRChat\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\FURKAN\Desktop\signalRChatApp\SignalRChat\SignalRChat\bin\Microsoft.Owin.Security.dll
+C:\Users\FURKAN\Desktop\signalRChatApp\SignalRChat\SignalRChat\bin\Newtonsoft.Json.dll
+C:\Users\FURKAN\Desktop\signalRChatApp\SignalRChat\SignalRChat\bin\Owin.dll
+C:\Users\FURKAN\Desktop\signalRChatApp\SignalRChat\SignalRChat\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\FURKAN\Desktop\signalRChatApp\SignalRChat\SignalRChat\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\FURKAN\Desktop\signalRChatApp\SignalRChat\SignalRChat\bin\Microsoft.Owin.xml
+C:\Users\FURKAN\Desktop\signalRChatApp\SignalRChat\SignalRChat\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\FURKAN\Desktop\signalRChatApp\SignalRChat\SignalRChat\bin\Microsoft.Owin.Security.xml
+C:\Users\FURKAN\Desktop\signalRChatApp\SignalRChat\SignalRChat\bin\Newtonsoft.Json.xml

@@ -1,7 +1,46 @@
-﻿
-@{
+﻿@{
     ViewBag.Title = "SignalR Chat Application";
+    Layout = null;
 }
+<link href="~/Content/style.css" rel="stylesheet" />
+<script src="~/Scripts/jquery.min.js"></script>
+<script src="~/Scripts/jquery.signalR-2.2.3.min.js"></script>
+<script src="~/Signalr/Hubs"></script>
+<script src="~/Scripts/chat.js"></script>
+<div class="container clearfix" style="width:850px;height:600px;">
+    <div class="people-list" id="people-list">
+        <div class="search">
+            <input type="text" placeholder="User Connection ID" id="kime" style="width:100%;background:#ffffff;color:#000000;" />
+        </div>
+        <ul class="list" style="list-style:none;padding:0 20px;">
+        </ul>
+    </div>
 
-<h2>Index</h2>
+    <div class="chat" style="width:590px;">
+        <div class="chat-header clearfix">
+            <img src="~/Content/images/user.png" alt="avatar" />
+            <div class="chat-about">
+                <div id="userName" class="chat-with">User Name</div>
+                <div id="connID" class="chat-num-messages">Connection ID</div>
+                <div id="groupName" class="chat-num-messages">Group Name</div>
+            </div>
+            <i class="fa fa-star"></i>
+        </div> <!-- end chat-header -->
 
+        <div class="chat-history" style="height:381px;">
+            <ul style="list-style:none;" id="discussion"></ul>
+
+        </div> <!-- end chat-history -->
+
+        <div class="chat-message clearfix">
+            <textarea name="message-to-send" id="message" placeholder="Type your message" rows="3"></textarea>
+
+            <i class="fa fa-file-o"></i> &nbsp;&nbsp;&nbsp;
+            <i class="fa fa-file-image-o"></i>
+
+            <label><input type="checkbox" id="grupMesaj" class="form-control text-dark" />Grup Mesajı</label>
+        </div> <!-- end chat-message -->
+
+    </div> <!-- end chat -->
+
+</div> <!-- end container -->
